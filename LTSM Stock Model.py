@@ -144,8 +144,8 @@ for stock in Stocks:
 
 
 
-    API_KEY = "PKURCN50OFCIQOOCQQKK"
-    SECRET_KEY = "LafENNv5eFM8hJNBfbpeq0Q2SX9XWolxGH4xTiFC"
+    API_KEY = ""
+    SECRET_KEY = ""
 
     trading_client = TradingClient(API_KEY, SECRET_KEY, paper=True)
 
